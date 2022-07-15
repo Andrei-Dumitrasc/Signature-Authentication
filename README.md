@@ -4,3 +4,4 @@ Android Log-In module. Register by drawing 5 signatures, then try to log-in. The
 You may forget a password, but likely not your hand signature ;)
 
 ![home screen](/home.png?raw=true "home screen")
+<img src="/home.png" width="50%" height="50%">
